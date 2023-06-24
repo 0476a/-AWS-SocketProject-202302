@@ -1,10 +1,10 @@
-# -AWS-SocketProject
+# -AWS-SocketProject-202302
 
 ### [📖기술블로그](https://donotthinkjustdo.tistory.com/entry/Stage19-%EC%82%B0%EB%8C%80%ED%8A%B9-%EC%9E%90%EB%B0%94-%EB%B0%B1%EC%97%94%EB%93%9C%EC%86%8C%EC%BC%93-%ED%86%B5%EC%8B%A0-%EB%A7%8C%EB%93%A4%EA%B8%B0-20230213-0302)
 
 ### [🎬구현영상](https://donotthinkjustdo.tistory.com/entry/Stage19-%EC%82%B0%EB%8C%80%ED%8A%B9-%EC%9E%90%EB%B0%94-%EB%B0%B1%EC%97%94%EB%93%9C%EC%86%8C%EC%BC%93-%ED%86%B5%EC%8B%A0-%EB%A7%8C%EB%93%A4%EA%B8%B0-20230213-0302#1.-%EA%B5%AC%ED%98%84-%EC%98%81%EC%83%81)
 
-### 프로젝트 진행기간 2023.02.27 ~ 2023.03.02
+### 프로젝트 진행기간 2023.02.13 ~ 2023.03.02
 
 ___
 
